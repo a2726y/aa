@@ -1,6 +1,6 @@
 function T = ExSol(alpha,t,x_espa)
 alfa = alpha;
-dx=0.0002222;
+dx=0.0002222333;
 T0=100;
 Lx=1;
 dt=0.05;
